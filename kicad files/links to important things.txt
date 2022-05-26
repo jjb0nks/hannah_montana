@@ -1,17 +1,17 @@
 encoder:
   -buy:
-
-  -datasheet
-
+    -tactile: https://www.mouser.com/ProductDetail/Alps-Alpine/EC11E18244A5?qs=seHrhfPpLDydI9KuruJHhA%3D%3D
+  -product#:
+    -tactile: EC11E18244A5
+  -datasheet: https://www.mouser.com/datasheet/2/15/alps_alps-s-a0008379064-1-1733314.pdf
+  -description: tactile encoder w/ 36 bumps, res of 18, and push distance of 1.5mm
 oled:
   -buy:
-
-  -datasheet
-
+  -datasheet: 
 reset switch:
-  -buy:
+  -buy: https://www.mouser.com/ProductDetail/Grayhill/95C04A3T?qs=ls7QRyWmRk7sxMlJRVSkDg%3D%3D
+  -product#: 95C04A3T
+  -datasheet: https://www.mouser.com/datasheet/2/626/grhls01180_1-2289464.pdf
+  -description: small through hole momentary switch
 
-  -datasheet
-
-
-this will probably be replaced with a actually good BOM at some point but i do not want to do that 
+this will probably be replaced with a actually good BOM at some point but i do not want to do that right now lol
