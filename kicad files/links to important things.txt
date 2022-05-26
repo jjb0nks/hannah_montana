@@ -1,0 +1,17 @@
+encoder:
+  -buy:
+
+  -datasheet
+
+oled:
+  -buy:
+
+  -datasheet
+
+reset switch:
+  -buy:
+
+  -datasheet
+
+
+this will probably be replaced with a actually good BOM at some point but i do not want to do that 
