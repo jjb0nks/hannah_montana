@@ -3336,4 +3336,13 @@
       (net 21 "Net-(D18-Pad2)") (pinfunction "A") (pintype "passive") (tstamp c1f7b1e8-d747-4582-8199-0aae1f0316cf))
   )
 
+  (gr_line (start 220.6625 2.38125) (end 220.6625 65.0875) (layer "Edge.Cuts") (width 0.1) (tstamp 0101b994-6908-4ea6-9fab-04babfe46a14))
+  (gr_arc (start 2.38125 67.46875) (mid 0.697452 66.771298) (end 0 65.0875) (layer "Edge.Cuts") (width 0.1) (tstamp 1456969c-f96b-48da-b941-6ed860261455))
+  (gr_line (start 2.38125 0) (end 218.28125 0) (layer "Edge.Cuts") (width 0.1) (tstamp 169f63ee-74e5-43de-bf15-b2f0a3eb6c33))
+  (gr_arc (start 220.6625 65.0875) (mid 219.965048 66.771298) (end 218.28125 67.46875) (layer "Edge.Cuts") (width 0.1) (tstamp 280e8681-30b3-4992-9fc9-dbbd60e5cd13))
+  (gr_arc (start 218.28125 0) (mid 219.965048 0.697452) (end 220.6625 2.38125) (layer "Edge.Cuts") (width 0.1) (tstamp 3e114991-73e9-41a7-9c7b-f110e22cf3b9))
+  (gr_line (start 218.28125 67.46875) (end 2.38125 67.46875) (layer "Edge.Cuts") (width 0.1) (tstamp 534046ed-d77b-47c6-8788-4a87b1392fee))
+  (gr_line (start 0 65.0875) (end 0 2.38125) (layer "Edge.Cuts") (width 0.1) (tstamp 92b0c0bb-7def-4394-a89a-df04b9514ca1))
+  (gr_arc (start 0 2.38125) (mid 0.697452 0.697452) (end 2.38125 0) (layer "Edge.Cuts") (width 0.1) (tstamp b87c78e4-1dde-420d-b866-dfdeda15c382))
+
 )
