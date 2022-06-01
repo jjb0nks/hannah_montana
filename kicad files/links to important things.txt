@@ -6,8 +6,9 @@ encoder:
   -datasheet: https://www.mouser.com/datasheet/2/15/alps_alps-s-a0008379064-1-1733314.pdf
   -description: tactile encoder w/ 36 bumps, res of 18, and push distance of 1.5mm
 oled:
-  -buy:
-  -datasheet: 
+  -buy: https://www.amazon.com/Teyleten-Robot-Display-SSD1306-Raspberry/dp/B08ZY4YBHL/ref=sr_1_8?keywords=128x32+i2c+oled+display&qid=1653592593&s=electronics&sr=1-8
+  -specs: 
+    -size: 4.49 x 2.8 x 0.59 inches 
 reset switch:
   -buy: https://www.mouser.com/ProductDetail/Grayhill/95C04A3T?qs=ls7QRyWmRk7sxMlJRVSkDg%3D%3D
   -product#: 95C04A3T
